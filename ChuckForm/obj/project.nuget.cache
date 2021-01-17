@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J90FYkQhNRGnjdZBBCugPX8l/3MDcToLuMRu2y50C83tlotOAQ+v6djjaWvdv4V1wUOgsH0zepaEFmD4g44zsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristen-Jaan\\source\\repos\\ChuckConsole\\ChuckForm\\ChuckForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristen-Jaan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

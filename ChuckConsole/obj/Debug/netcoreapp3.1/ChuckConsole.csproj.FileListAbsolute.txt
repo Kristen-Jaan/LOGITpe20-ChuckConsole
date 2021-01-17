@@ -1,0 +1,15 @@
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.exe
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.deps.json
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.runtimeconfig.json
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.runtimeconfig.dev.json
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.dll
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\ChuckConsole.pdb
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.csprojAssemblyReference.cache
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.AssemblyInfoInputs.cache
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.AssemblyInfo.cs
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.dll
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.pdb
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.genruntimeconfig.cache
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kristen-Jaan\source\repos\ChuckConsole\ChuckConsole\obj\Debug\netcoreapp3.1\ChuckConsole.csproj.CopyComplete
